@@ -44,3 +44,10 @@ Taiwan Clinical Trials： https://www.taiwanclinicaltrials.tw/tw
 年度資料csv檔案
 顯示資料類型包含:
 地區 | 地區人口數 | 老年人口數 | 長照需求人數 | 老化指數 | 扶老比 |  | 就業人口 | 薪資中位數 | 醫療院所數 | 照服人力 | 長照機構數
+
+
+## 八、視窗主程式：
+### [main.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
+
+### [敘述統計](https://github.com/Ian092/Ian_window/blob/main/homework/issue216/BMI.png)
+
