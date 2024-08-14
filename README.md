@@ -50,12 +50,12 @@ Taiwan Clinical Trials： https://www.taiwanclinicaltrials.tw/tw
 #### [main.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
 #### [data_analysis.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
 
-![統計資料](C:\Users\bhbin\OneDrive\桌面\GitHub\Ian\LTC_project\image\LTC_Project_01.png)
+![統計資料](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_01.png)
 
-![各地區長照機構數和長照需求人數](LTC_project\image\LTC_Project_02.png)
+![各地區長照機構數和長照需求人數](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_02.png)
 
-![變數盒鬚圖](LTC_project\image\LTC_Project_03.png)
+![變數盒鬚圖](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_03.png)
 
-![相關係數熱力圖](LTC_project\image\LTC_Project_04.png)
+![相關係數熱力圖](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_04.png)
 
-![決策樹](LTC_project\image\LTC_Project_05.png)
+![決策樹](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_05.png)
