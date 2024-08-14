@@ -48,7 +48,7 @@ Taiwan Clinical Trials： https://www.taiwanclinicaltrials.tw/tw
 
 ### 八、視窗主程式：
 #### [main.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
-#### [main.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
+#### [data_analysis.py](https://github.com/Ian092/Ian/blob/main/LTC_project/main.py)
 
-#### [](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_01.png)
+#### [資料呈現](https://github.com/Ian092/Ian/blob/main/LTC_project/image/LTC_Project_01.png)
 
